@@ -1,0 +1,1808 @@
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 8.17.12.8562]
+    Renderer: NVIDIA GeForce 8800 GTX
+    Vendor:   NVIDIA
+    VRAM:     731 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+desktop: 1680x1050 60Hz; virtual: 3360x1050 at 0,0
+<I> Initializing (RawInput).
+<RI> Input initialized.
+Non platform assembly: data-02FF88F8 (this message is harmless)
+Non platform assembly: data-0305EFD8 (this message is harmless)
+
+curNode = Node0, distAlongSpline = 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:BuildSpline()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+nodeList.Count = 1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:BuildSpline()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+curNode.nextNode = Node1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:BuildSpline()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+
+curNode = Node1, distAlongSpline = 10.04988
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:BuildSpline()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+nodeList.Count = 2
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:BuildSpline()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+curNode.nextNode = Node2
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:BuildSpline()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+
+curNode = Node2, distAlongSpline = 20.09975
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:BuildSpline()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+nodeList.Count = 3
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:BuildSpline()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+curNode.nextNode = Node3
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:BuildSpline()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+
+curNode = Node3, distAlongSpline = 30.54006
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:BuildSpline()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+nodeList.Count = 4
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:BuildSpline()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+curNode.nextNode = Node4
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:BuildSpline()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+
+curNode = Node4, distAlongSpline = 48.56781
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:BuildSpline()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+nodeList.Count = 5
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:BuildSpline()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+curNode.nextNode = Node5
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:BuildSpline()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+
+curNode = Node5, distAlongSpline = 80.19059
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:BuildSpline()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:BuildSpline()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+curNode.nextNode = None
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:BuildSpline()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+splineLength = 80.19059, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:BuildSpline()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 0, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 0, ratio = 0, t = 0.5, position = (0.0, 1000.0, 0.0)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 1, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 1, ratio = 0.09950373, t = 0.5995038, position = (0.0, 999.9, 1.0)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 2, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 2, ratio = 0.1990075, t = 0.6990075, position = (0.0, 999.8, 2.0)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 3, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 3, ratio = 0.2985112, t = 0.7985111, position = (0.0, 999.7, 3.0)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 4, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 4, ratio = 0.3980149, t = 0.8980149, position = (0.0, 999.6, 4.0)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 5, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 5, ratio = 0.4975186, t = 0.9975186, position = (0.0, 999.5, 5.0)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 6, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 6, ratio = 0.5970224, t = 0.09702235, position = (0.0, 999.4, 6.0)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 7, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 7, ratio = 0.6965261, t = 0.1965261, position = (0.0, 999.3, 7.0)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 8, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 8, ratio = 0.7960298, t = 0.2960298, position = (0.0, 999.2, 8.0)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 9, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 9, ratio = 0.8955335, t = 0.3955335, position = (0.0, 999.1, 9.0)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 10, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 10, ratio = 0.9950372, t = 0.4950372, position = (0.0, 999.0, 10.0)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 11, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 11, ratio = 0.09454095, t = 0.594541, position = (0.0, 998.9, 10.9)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 12, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 12, ratio = 0.1940447, t = 0.6940446, position = (0.0, 998.8, 11.9)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 13, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 13, ratio = 0.2935484, t = 0.7935484, position = (0.0, 998.7, 12.9)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 14, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 14, ratio = 0.3930521, t = 0.8930521, position = (0.0, 998.6, 13.9)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 15, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 15, ratio = 0.4925558, t = 0.9925559, position = (0.0, 998.5, 14.9)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 16, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 16, ratio = 0.5920596, t = 0.09205955, position = (0.0, 998.4, 15.9)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 17, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 17, ratio = 0.6915633, t = 0.1915633, position = (0.0, 998.3, 16.9)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 18, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 18, ratio = 0.791067, t = 0.291067, position = (0.0, 998.1, 17.9)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 19, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 19, ratio = 0.8905707, t = 0.3905707, position = (0.0, 998.0, 18.9)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 20, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 20, ratio = 0.9900745, t = 0.4900745, position = (0.0, 997.8, 19.9)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 21, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 21, ratio = 0.08622825, t = 0.5862283, position = (0.0, 997.6, 20.9)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 22, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 22, ratio = 0.1820109, t = 0.6820109, position = (0.0, 997.4, 21.8)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 23, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 23, ratio = 0.2777935, t = 0.7777935, position = (0.0, 997.1, 22.8)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 24, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 24, ratio = 0.3735761, t = 0.8735761, position = (0.0, 996.9, 23.7)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 25, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 25, ratio = 0.4693587, t = 0.9693587, position = (0.0, 996.6, 24.7)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 26, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 26, ratio = 0.5651413, t = 0.06514132, position = (0.0, 996.3, 25.7)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 27, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 27, ratio = 0.660924, t = 0.160924, position = (0.0, 995.9, 26.6)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 28, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 28, ratio = 0.7567066, t = 0.2567066, position = (0.0, 995.3, 27.6)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 29, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 29, ratio = 0.8524892, t = 0.3524892, position = (0.0, 994.7, 28.5)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 30, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 30, ratio = 0.9482718, t = 0.4482718, position = (0.0, 993.9, 29.5)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 31, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 31, ratio = 0.02551299, t = 0.525513, position = (0.0, 993.3, 30.3)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 32, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 32, ratio = 0.08098301, t = 0.580983, position = (0.0, 992.7, 30.8)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 33, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 33, ratio = 0.136453, t = 0.636453, position = (0.0, 992.2, 31.4)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 34, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 34, ratio = 0.1919231, t = 0.691923, position = (0.0, 991.6, 31.9)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 35, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 35, ratio = 0.2473931, t = 0.7473931, position = (0.0, 990.9, 32.5)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 36, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 36, ratio = 0.3028631, t = 0.8028631, position = (0.0, 990.2, 33.0)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 37, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 37, ratio = 0.3583331, t = 0.8583331, position = (0.0, 989.5, 33.6)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 38, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 38, ratio = 0.4138031, t = 0.9138031, position = (0.0, 988.7, 34.1)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 39, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 39, ratio = 0.4692731, t = 0.9692731, position = (0.0, 988.0, 34.7)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 40, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 40, ratio = 0.5247432, t = 0.0247432, position = (0.0, 987.1, 35.2)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 41, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 41, ratio = 0.5802132, t = 0.08021319, position = (0.0, 986.2, 35.8)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 42, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 42, ratio = 0.6356832, t = 0.1356832, position = (0.0, 985.3, 36.4)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 43, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 43, ratio = 0.6911532, t = 0.1911532, position = (0.0, 984.4, 36.9)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 44, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 44, ratio = 0.7466233, t = 0.2466233, position = (0.0, 983.3, 37.5)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 45, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 45, ratio = 0.8020933, t = 0.3020933, position = (0.0, 982.3, 38.0)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 46, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 46, ratio = 0.8575633, t = 0.3575633, position = (0.0, 981.2, 38.6)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 47, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 47, ratio = 0.9130333, t = 0.4130333, position = (0.0, 980.0, 39.1)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 48, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 48, ratio = 0.9685034, t = 0.4685034, position = (0.0, 978.8, 39.7)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 49, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 49, ratio = 0.01366693, t = 0.5136669, position = (0.0, 977.8, 40.1)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 50, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 50, ratio = 0.0452897, t = 0.5452897, position = (0.0, 977.1, 40.5)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 51, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 51, ratio = 0.07691248, t = 0.5769125, position = (0.0, 976.4, 40.8)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 52, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 52, ratio = 0.1085353, t = 0.6085353, position = (0.0, 975.6, 41.1)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 53, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 53, ratio = 0.140158, t = 0.6401581, position = (0.0, 974.8, 41.4)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 54, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 54, ratio = 0.1717808, t = 0.6717808, position = (0.0, 974.0, 41.7)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 55, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 55, ratio = 0.2034036, t = 0.7034036, position = (0.0, 973.2, 42.0)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 56, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 56, ratio = 0.2350264, t = 0.7350264, position = (0.0, 972.4, 42.4)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 57, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 57, ratio = 0.2666492, t = 0.7666491, position = (0.0, 971.6, 42.7)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 58, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 58, ratio = 0.2982719, t = 0.7982719, position = (0.0, 970.7, 43.0)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 59, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 59, ratio = 0.3298947, t = 0.8298947, position = (0.0, 969.9, 43.3)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 60, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 60, ratio = 0.3615175, t = 0.8615175, position = (0.0, 969.0, 43.6)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 61, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 61, ratio = 0.3931403, t = 0.8931403, position = (0.0, 968.1, 43.9)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 62, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 62, ratio = 0.424763, t = 0.924763, position = (0.0, 967.2, 44.2)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 63, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 63, ratio = 0.4563858, t = 0.9563858, position = (0.0, 966.3, 44.6)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 64, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 64, ratio = 0.4880086, t = 0.9880086, position = (0.0, 965.4, 44.9)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 65, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 65, ratio = 0.5196314, t = 0.01963139, position = (0.0, 964.4, 45.2)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 66, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 66, ratio = 0.5512542, t = 0.05125415, position = (0.0, 963.5, 45.5)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 67, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 67, ratio = 0.5828769, t = 0.08287692, position = (0.0, 962.5, 45.8)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 68, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 68, ratio = 0.6144997, t = 0.1144997, position = (0.0, 961.6, 46.1)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 69, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 69, ratio = 0.6461225, t = 0.1461225, position = (0.0, 960.6, 46.5)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 70, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 70, ratio = 0.6777452, t = 0.1777452, position = (0.0, 959.7, 46.8)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 71, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 71, ratio = 0.7093681, t = 0.2093681, position = (0.0, 958.7, 47.1)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 72, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 72, ratio = 0.7409908, t = 0.2409908, position = (0.0, 957.8, 47.4)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 73, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 73, ratio = 0.7726136, t = 0.2726136, position = (0.0, 956.8, 47.7)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 74, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 74, ratio = 0.8042364, t = 0.3042364, position = (0.0, 955.9, 48.0)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 75, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 75, ratio = 0.8358591, t = 0.3358591, position = (0.0, 954.9, 48.4)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 76, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 76, ratio = 0.8674819, t = 0.3674819, position = (0.0, 954.0, 48.7)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 77, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 77, ratio = 0.8991047, t = 0.3991047, position = (0.0, 953.0, 49.0)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 78, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 78, ratio = 0.9307275, t = 0.4307275, position = (0.0, 952.1, 49.3)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 79, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 79, ratio = 0.9623502, t = 0.4623502, position = (0.0, 951.1, 49.6)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+GetPointAlongSpline - dist = 80, nodeList.Count = 6
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+dist = 80, ratio = 0.993973, t = 0.493973, position = (0.0, 950.2, 49.9)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+StartScript:GetPointAlongSpline(Single, Vector3&, Vector3&, Vector3&)
+StartScript:GenerateTrack()
+StartScript:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
